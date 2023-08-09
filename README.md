@@ -1,10 +1,16 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+HUNTER's+GitHub+Profile%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ![](https://count.getloli.com/get/@SJP2022.github.readme)
 </div>
+
+### 🔭 I’m currently a student in JiLin University
+
+### 🎯 I'm interested in Deep Learning
+
+### 📫 How to reach me: [Email](mailto:sjp1212@foxmail.com)
 
 <!--
 **SJP2022/SJP2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
