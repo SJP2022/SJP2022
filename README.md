@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+HUNTER's+GitHub+Profile%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ![](https://count.getloli.com/get/@SJP2022.github.readme)
-</div>
 
 ### 🔭 I’m currently a student in JiLin University
 
@@ -30,3 +29,4 @@ Here are some ideas to get you started:
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjp2022&layout=compact&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+</div>
